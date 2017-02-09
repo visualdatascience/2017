@@ -20,7 +20,10 @@ Universität Wien
 
 **[Adam Perer]()**  
 
-**[Carlos Scheidegger]()**
+**[Carlos Scheidegger](https://cscheid.net)**
+
+Carlos Scheidegger is an assistant professor at the University of Arizona. His research interests are in large-scale data analysis, information visualization and, more broadly, "where people meet data" and vice-versa.
+
 
 ### Program Committee
 
