@@ -22,6 +22,7 @@ Please format your submission according to the VGTC formatting guidelines.
 To submit a paper please use the [Precision Conference System](https://precisionconference.com/~vds17/). After logging in go to “new submissions” and select “Submit to Papers” for VDS 2017.
 
 For inclusion on the website and for evaluation, please also submit:
+
  * a summary of your abstract (less than 150 words),
  * a short biography of the speaker(s) (less than 150 words),
  * a picture of the speaker (150 pixels wide, up to 250 pixels high)
