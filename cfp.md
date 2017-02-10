@@ -32,7 +32,7 @@ For inclusion on the website and for evaluation, please also submit:
 
 Abstract submissions should be one page and describe the role, application, and impact of visualization in data science. We would like to particularly encourage **abstracts that cross disciplinary boundaries and show how visualization in data science can be a catalyst for discovery**.
 
-There are three possibilities to contribute to the program at VDS 2016:
+There are three possibilities to contribute to the program at VDS:
 
  1. **New Research:** Participants are invited to submit an abstract describing interesting work in progress research.
  2. **Highlights:** Participants are encouraged to submit an abstract describing their recently published work related to visualization in data science.

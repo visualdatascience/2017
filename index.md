@@ -4,11 +4,12 @@ layout: home
 
 ## Vision
 
-Transformations in many fields are enabled by rapid advances in our ability to acquire and generate data. The bottleneck to discovery is now our ability to analyze and make sense of heterogeneous, noisy, and often massive datasets. Extracting knowledge from this abundance of data lies at the heart of 21st century discovery.
 
-We truly are at the dawn of a revolutionary new era. Data science is the practice of deriving insight from data, at the intersection of the disciplines of statistical methodology, computer science, and one or more traditional scholarly fields. Data science includes the methodological fields of visualization, statistics, applied mathematics, data management, artificial intelligence, and machine learning. It drives discoveries in business, economy, biology, medicine, environmental science, the physical sciences, the humanities and social sciences, and beyond.
+Transformations in many fields are enabled by rapid advances in our ability to acquire and generate data. The bottleneck to discovery is now our ability to analyze and make sense of heterogeneous, noisy, streaming, and often massive datasets. Extracting knowledge from this abundance of data lies at the heart of 21st century discovery.
 
-Visualization is an integral part of data science, and essential to enable sophisticated analysis of data. After the highly successful first Symposium on Visualization in Data Science (VDS), the second Event will again be co-located with [IEEE VIS 2017](http://ieeevis.org/) in Phoenix, AZ. VDS will bring together domain scientists and methods researchers (including data visualization, usability, data management, artificial intelligence, machine learning, statistics, programming environments, scalable software). Our goal is to bring together practitioners and researchers in data science and visualization to discuss common interests, talk about practical issues, and identify open research problems.
+Data science is the practice of deriving insight from data, enabled by statistical modeling, computational methods, interactive visual analysis, and domain-driven problem solving. Data science draws from methodology developed in such fields as applied mathematics, statistics, machine learning, data management, visualization, and HCI. It drives discoveries in business, economy, biology, medicine, environmental science, the physical sciences, the humanities and social sciences, and beyond.
+
+Visualization is an integral part of data science, and essential to enable sophisticated analysis of data. After two highly successful events, the third Symposium on Visualization in Data Science (VDS) will again be held at [IEEE VIS 2017](http://ieeevis.org) in Phoenix, Arizona, USA. VDS will bring together domain scientists and methods researchers (including visualization, usability and HCI, data management, statistics, machine learning, and software engineering) to discuss common interests, talk about practical issues, and identify open research problems in visualization in data science.
 
 ## Contact & Registration
 

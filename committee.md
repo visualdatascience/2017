@@ -14,7 +14,7 @@ Alex is an assistant professor of computer science at the Scientific Computing a
 
 
 **[Torsten Möller](https://cs.univie.ac.at/Torsten.Möller)**  
-Universität Wien
+Torsten is the head of the Research Group Visualization and Data Analysis at the University of Vienna.
 
 ### Program Chairs
 
@@ -25,15 +25,14 @@ Adam is a Research Scientist at IBM's T.J. Watson Research Center, as well as an
 
 Carlos Scheidegger is an assistant professor at the University of Arizona. His research interests are in large-scale data analysis, information visualization and, more broadly, "where people meet data" and vice-versa.
 
-
-### Program Committee
-
-TBA
-
-
 ### Steering Committee
 
 - <a href="http://www.vis.uni-konstanz.de/mitglieder/keim/">Daniel Keim</a>, University of Konstanz
 - <a href="http://www.seas.harvard.edu/directory/pfister">Hanspeter Pfister</a>, Harvard University
 - <a href="http://vgc.poly.edu/~csilva/">Claudio Silva</a>, New York University
-- [Marc Streit](http://marc-streit.com)  
+- [Marc Streit](http://marc-streit.com)
+  
+  
+### Program Committee
+
+TBA
