@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Vision
 ---
-
-## Vision
 
 
 Transformations in many fields are enabled by rapid advances in our ability to acquire and generate data. The bottleneck to discovery is now our ability to analyze and make sense of heterogeneous, noisy, streaming, and often massive datasets. Extracting knowledge from this abundance of data lies at the heart of 21st century discovery.
