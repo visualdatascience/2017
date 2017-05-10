@@ -1,6 +1,6 @@
 # Site settings
 title: "Visualization in Data Science (VDS at IEEE VIS 2017)"
-email: "contact@visualdatascience.org"
+email: "vds@ieeevis.org"
 description: "Visualization in Data Science (VDS at IEEE VIS 2017)"
 baseurl: "/2017"
 url: "http://visualdatascience.org"

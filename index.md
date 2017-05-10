@@ -13,7 +13,7 @@ Visualization is an integral part of data science, and essential to enable sophi
 
 ## Contact & Registration
 
-Please use [contact@visualdatascience.org](mailto:contact@visualdatascience.org) to get in touch with us.
+Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us.
 
 Registration for VDS is included with registration for IEEE VIS and is handled through the [VIS website](http://ieeevis.org/).
 
