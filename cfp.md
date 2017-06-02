@@ -9,7 +9,9 @@ The workshop will feature a series of keynote presentations by leading data scie
 
 ## Papers
 
-Paper submissions should describe the role, application, and impact of visualization in data science. We would like to particularly encourage papers that cross disciplinary boundaries and show how visualization in data science can be a catalyst for discovery. Papers will be published on the symposium website and will be included on the VIS USB stick. We consider papers as work in progress and encourage authors to publish an improved version of the paper in a journal or at another venue at a later time.  In addition, we tentatively plan to publish extended versions of selected papers in [IEEE Transactions on Big Data](https://www.computer.org/web/tbd).
+Paper submissions should describe the role, application, and impact of visualization in data science. We would like to particularly encourage papers that cross disciplinary boundaries and show how visualization in data science can be a catalyst for discovery. Papers will be published on the symposium website and will be included on the VIS USB stick. We consider papers as work in progress and encourage authors to publish an improved version of the paper in a journal or at another venue at a later time.  
+
+The conference proceedings will be archived in the IEEE Digital Library.  In addition, we plan to publish extended versions of selected papers in a special issue of the [IEEE Transactions on Big Data](https://www.computer.org/web/tbd) journal.
 
 ### Review Process
 
@@ -17,7 +19,7 @@ Paper submissions will be managed by the Program Chairs and sent to the Program 
 
 ### Paper Submission and Formatting Guidelines
 
-Please format your submission according to the VGTC formatting guidelines.
+Submissions should be no more than 8 pages long — shorter papers are welcome — and formatted according to the [VGTC formatting guidelines](http://junctionpublishing.org/vgtc/Tasks/camera.html).
 
 To submit a paper please use the [Precision Conference System](https://precisionconference.com/~vds17/). After logging in go to “new submissions” and select “Submit to Papers” for VDS 2017.
 
