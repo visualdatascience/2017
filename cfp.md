@@ -21,7 +21,7 @@ Paper submissions will be managed by the Program Chairs and sent to the Program 
 
 Submissions should be no more than 8 pages long — shorter papers are welcome — and formatted according to the [VGTC formatting guidelines](http://junctionpublishing.org/vgtc/Tasks/camera.html).
 
-To submit a paper please use the [Precision Conference System](https://precisionconference.com/~vds17/). After logging in go to “new submissions” and select “Submit to Papers” for VDS 2017.
+To submit a paper please use the [Precision Conference System](https://precisionconference.com/~vgtc/). After logging in go to “new submissions” and select “Submit to Papers” for VDS 2017.
 
 For inclusion on the website and for evaluation, please also submit:
 
@@ -61,7 +61,7 @@ For inclusion on the website and for evaluation, please also submit:
  * a picture of the speaker (150 pixels wide, up to 250 pixels high)
  * for previously published work: the original paper.
 
-To submit a paper please use the [Precision Conference System](https://precisionconference.com/~vds17/). After logging in go to "new submissions" and select "Submit to Abstracts" for VDS 2017.
+To submit a paper please use the [Precision Conference System](https://precisionconference.com/~vgtc/). After logging in go to "new submissions" and select "Submit to Abstracts/Talks" for VDS 2017.
 
 ### Important Dates
 
