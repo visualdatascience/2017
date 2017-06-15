@@ -11,7 +11,7 @@ The workshop will feature a series of keynote presentations by leading data scie
 
 Paper submissions should describe the role, application, and impact of visualization in data science. We would like to particularly encourage papers that cross disciplinary boundaries and show how visualization in data science can be a catalyst for discovery. Papers will be published on the symposium website and will be included on the VIS USB stick. We consider papers as work in progress and encourage authors to publish an improved version of the paper in a journal or at another venue at a later time.  
 
-The conference proceedings will be archived in the IEEE Digital Library.  In addition, we plan to publish extended versions of selected papers in a special issue of the [IEEE Transactions on Big Data](https://www.computer.org/web/tbd) journal.
+The conference proceedings will be submitted to the IEEE Digital Library.  In addition, we plan to publish extended versions of selected papers in a special issue of the [IEEE Transactions on Big Data](https://www.computer.org/web/tbd) journal.
 
 ### Review Process
 
