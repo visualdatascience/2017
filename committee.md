@@ -31,8 +31,20 @@ Carlos Scheidegger is an assistant professor at the University of Arizona. His r
 - <a href="http://www.seas.harvard.edu/directory/pfister">Hanspeter Pfister</a>, Harvard University
 - <a href="http://vgc.poly.edu/~csilva/">Claudio Silva</a>, New York University
 - [Marc Streit](http://marc-streit.com)
-  
-  
-### Program Committee
 
-TBA
+
+### Program Committee (Tentative)
+
+- Natalia Andrienko, Fraunhofer Institute
+- Matthew Berger, University of Arizona
+- Polo (Duen Horng) Chau, Georgia Tech
+- Wenwen Dou, UNC Charlotte
+- Tobias Schreck,  Graz University of Technology
+- Michael Sedlmair, University of Vienna
+- Claudio Silva, New York University
+- Chad Steed, Oak Ridge National Laboratory
+- Hendrik Strobelt, IBM Research
+- Danielle Szafir, University of Colorado Boulder
+- Bei Wang, University of Utah
+- Hadley Wickham, RStudio
+- Tian Zheng, Columbia University
