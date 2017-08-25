@@ -1,6 +1,6 @@
 ---
 key: viegas-wattenberg
-speaker: Fernanda Viegas, Marting Wattenberg
+speaker: Fernanda Viegas, Martin Wattenberg
 website: http://hint.fm/
 affiliation: Google
 title: "Visualization: The secret weapon for machine learning." 
