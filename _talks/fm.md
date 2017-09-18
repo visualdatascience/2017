@@ -1,5 +1,5 @@
 ---
-key: viegas-wattenberg
+key: fm
 speaker: Fernanda Viegas, Martin Wattenberg
 website: http://hint.fm/
 affiliation: Google
