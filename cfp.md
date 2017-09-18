@@ -40,7 +40,7 @@ There are three possibilities to contribute to the program at VDS:
  2. **Highlights:** Participants are encouraged to submit an abstract describing their recently published work related to visualization in data science.
  3. **Position Statements:** We encourage submissions discussing, e.g., the role of data science in general, the relationship of visualization and data science, considerations regarding data science education, etc.  
 
-The authors of accepted abstracts will be invited to give a talk at VDS ranging in length from 5-20 minutes, depending on the scope of the work and the relevance to the workshop. While abstracts can have multiple authors, we assume that only one author will speak (contact us post-acceptance if multiple authors of one submission want to speak).  Speakers, their biography, and the abstract will be published on the symposium website.
+The authors of accepted abstracts will be invited to give a talk at VDS ranging in length from 5-20 minutes, depending on the scope of the work and the relevance to the symposium. While abstracts can have multiple authors, we assume that only one author will speak (contact us post-acceptance if multiple authors of one submission want to speak).  Speakers, their biography, and the abstract will be published on the symposium website.
 
 ### Review Process
 
